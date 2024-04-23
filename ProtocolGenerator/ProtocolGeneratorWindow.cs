@@ -308,7 +308,7 @@ namespace UnityPlugin.Protobuf
                 {
                     if (EditorGUILayout.LinkButton("GitHub"))
                     {
-                        Application.OpenURL("www.baidu.com");
+                        Application.OpenURL("https://github.com/CodeSnail12600/ProtocolGenerator");
                     }
                     GUILayout.FlexibleSpace();
                     if(GUILayout.Button(clearButtonContent))
